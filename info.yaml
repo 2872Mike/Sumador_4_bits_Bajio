@@ -34,7 +34,7 @@ pinout:
 
   # Outputs
   uo[0]: "s"
-  uo[1]: "cout"
+  uo[1]: "cout4"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
